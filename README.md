@@ -13,8 +13,7 @@ Referente aos projetos e Desafios no curso Oracle ONE
 </div>
   
 # Diretrizes para colaboração
-
-
+~~~~
 1. Fork o projeto
 2. Crie uma branch para sua feature: `git checkout -b feature-nova`
 3. Faça commit das suas alterações: `git commit -am 'Adiciona nova feature'`
