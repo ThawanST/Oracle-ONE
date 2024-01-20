@@ -6,10 +6,12 @@ Referente aos projetos e Desafios no curso Oracle ONE
 
 
 ## Tecnologias
+<div>
 - Java
 - JavaScript
 - Springboot
-
+</div>
+  
 # Diretrizes para colaboração
 1. Fork o projeto
 2. Crie uma branch para sua feature: `git checkout -b feature-nova`
