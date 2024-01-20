@@ -1,7 +1,9 @@
-# Oracle-ONE
+<h1> # Oracle-ONE </h1>
 Referente aos projetos e Desafios no curso Oracle ONE
 
-# Softwares e Ferramentas
+<h2>�� Sobre</h2>
+
+## �� Tecnologias
 - Java
 - JavaScript
 - Springboot
