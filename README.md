@@ -7,9 +7,9 @@ Referente aos projetos e Desafios no curso Oracle ONE
 
 ## Tecnologias
 <div>
-- Java
-- JavaScript
-- Springboot
+  Java
+' JavaScript
+' Springboot
 </div>
   
 # Diretrizes para colaboração
